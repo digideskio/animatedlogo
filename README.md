@@ -1,2 +1,2 @@
-# animatedlogo
-logo animation for website
+# digidesk animated logo
+logo animation for website uses
